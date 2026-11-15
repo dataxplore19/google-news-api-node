@@ -1,0 +1,11 @@
+{
+  "name": "google-news-api-node",
+  "version": "1.0.0",
+  "description": "Google News API for Node.js: search news by keyword, country or date range, real article URLs and full text, CSV export.",
+  "type": "module",
+  "main": "news.js",
+  "scripts": { "start": "node news.js" },
+  "engines": { "node": ">=18.3" },
+  "dependencies": { "apify-client": "^2.26.0" },
+  "license": "MIT"
+}
