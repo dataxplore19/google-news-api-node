@@ -102,6 +102,8 @@ const texts = items.map((a) => a.fullText).filter(Boolean);
 
 Prefer Python? The same tool in Python: [google-news-api-python](https://github.com/dataxplore19/google-news-api-python).
 
+For AI assistants (Claude, Cursor, VS Code): the [google-news-mcp-server](https://github.com/dataxplore19/google-news-mcp-server) MCP server. Without code, in n8n: [n8n templates](https://github.com/dataxplore19/n8n-google-trends-news-templates).
+
 ## FAQ
 
 ### Is there an official Google News API?
